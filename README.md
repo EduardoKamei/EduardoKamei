@@ -15,4 +15,4 @@
     <img alt= "html15" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-Um programador curioso e apaixonado por tecnologia sempre a procura de conhecimentos e do melhor resultado possível.
+Um programador curioso e apaixonado por tecnologia sempre a procura de conhecimentos e em trazer o melhor resultado possível.
